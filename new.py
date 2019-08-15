@@ -1,15 +1,11 @@
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas non
-# sapien cursus, consequat ex vitae, finibus odio. Duis elementum
-# venenatis rhoncus. Fusce commodo purus non ex lobortis, ornare fringilla
-# tortor fringilla. Praesent pharetra nisi at dictum auctor. Aliquam erat
-# volutpat. Donec vel posuere dui. Sed tempus sodales elit vitae volutpat.
-# Sed non eleifend turpis. Morbi fermentum orci augue, eget accumsan
-# turpis tempor nec. Ut in nibh non tellus pharetra ultrices. Ut diam
-# augue, tincidunt vel rutrum ac, pretium vitae quam. Quisque id risus
-# pulvinar sem euismod aliquet id ac neque. Vestibulum ante ipsum primis
-# in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris
-# viverra nibh egestas, ultricies mi eget, ullamcorper arcu. Morbi
-# facilisis ex elit, quis molestie risus consequat quis.
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget
+# fringilla orci, sed vehicula felis. Interdum et malesuada fames ac ante
+# ipsum primis in faucibus. Cras ut gravida ligula. Curabitur pellentesque
+# arcu sapien, ac sodales erat cursus eget. Sed pharetra urna facilisis
+# porttitor iaculis. Sed elit libero, sagittis at dignissim vitae, euismod
+# ac sem. Ut vulputate luctus arcu, sodales rutrum felis malesuada a.
+# Curabitur posuere lacus sit amet ipsum tristique, non dictum metus
+# vehicula.
 
 # Phasellus eleifend pulvinar egestas. Mauris eget consectetur justo.
 # Praesent at ultrices felis. In consequat, sem sit amet placerat rhoncus,
